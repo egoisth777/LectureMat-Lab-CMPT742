@@ -4,7 +4,7 @@ This repository contains lab materials and solutions for CMPT 742.
 
 ## Course Information
 
-**Zoom Link:** [Join Class Session](https://sfu.zoom.us/j/87867411788?pwd=1p2bu77IZ5rVFUmLprLqNRbdBwhYVd.1)
+**Zoom Link:** [Join Class Session](https://sfu.zoom.us/j/89061902259?pwd=J5ncIzy6CSBPT8bSoa6aHZ0C1nazHT.1)
 
 ## Repository Structure
 
