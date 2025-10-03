@@ -1,4 +1,4 @@
-# Function to check if a string is a palindrome
+[](Project,%20Ray%20Marching%20SDFs.md)# Function to check if a string is a palindrome
 def is_palindrome(s):
     # TODO: Implement the basic palindrome check
     return ...

@@ -1,4 +1,4 @@
-import random
+[](Project,%20Ray%20Marching%20SDFs.md)import random
 
 # Todo 1: Set a seed
 

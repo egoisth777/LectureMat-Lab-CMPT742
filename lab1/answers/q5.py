@@ -1,4 +1,4 @@
-# Function to check if a number is prime (basic solution)
+[](Project,%20Ray%20Marching%20SDFs.md)# Function to check if a number is prime (basic solution)
 def is_prime_basic(n):
     # TODO: Implement a basic check for prime numbers
     if n <= 1:

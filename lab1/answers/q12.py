@@ -1,4 +1,4 @@
-# Todo 1: Create a specified class with methods
+[](Project,%20Ray%20Marching%20SDFs.md)# Todo 1: Create a specified class with methods
     
 # Initialize Student object
 student1 = Student("amx333", "Alice", 21, "Female", "Computer Science")

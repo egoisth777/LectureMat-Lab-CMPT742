@@ -1,4 +1,4 @@
-import numpy as np
+[](Project,%20Ray%20Marching%20SDFs.md)import numpy as np
 
 # Todo 1: Create required numpy array
 matrix = np.random.uniform(0, 1, (10, 10))
