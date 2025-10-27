@@ -1,3 +1,11 @@
+---
+aliases: []
+tags: []
+icon:
+iconColor:
+date created: Tuesday, September 23rd 2025, 6:53:20 pm
+date modified: Sunday, October 26th 2025, 5:11:06 pm
+---
 # CMPT 742 Course Materials
 
 This repository contains lab materials and solutions for CMPT 742.
